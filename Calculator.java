@@ -6,5 +6,8 @@ public class Calculator{
   public subrtaction(){
     system.out.println(10-5);
   }
+  public Division(){
+    system.out.println(10/5);
+  }
 }  
   
