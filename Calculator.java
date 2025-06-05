@@ -3,6 +3,9 @@
 =======
 //This is done by Charan
 //this is done by ganesh
+//tripti dimri
+//mrunal thakur
+//kiara advani
 
 public class Calculator{
   public Adition(){
